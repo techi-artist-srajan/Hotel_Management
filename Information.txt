@@ -3,3 +3,14 @@ user name : - Admin
 password  : - 1234
 
 ENJOY DDDD
+
+How to use:
+
+- Download and Install XAMPP for php.
+- Copy this project into this path : C:/XAMPP/htdocs
+- Start Apache Server
+- Start MySQL and open http://localhost/phpmyadmin
+	- Create a new database and name it hotel
+	- Go to import and import the hotel.sql and run
+- Restart the Apache server and MySQL.
+- Run the index.php file and open the localhost on the browser
